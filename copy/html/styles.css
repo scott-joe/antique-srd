@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica+SC&family=IM+Fell+DW+Pica:ital@0;1&family=Pirata+One&display=swap');
+
+html {
+  font-size: 16px;
+}
+
+body {
+  width: 40rem;
+  margin: 5rem auto;
+  font-family: 'IM Fell DW Pica', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Pirata One', cursive;
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+p {
+    line-height: 1.2em;
+    margin-top: 0.2em;
+    margin-bottom: 0.5em;
+}
+
+ul {
+  margin-top: 0.5em;
+  margin-bottom: 1.5em;
+}
+
+li {
+  /* list-style: circle;
+  list-style: decimal;
+  list-style: disc;
+  list-style: decimal-leading-zero;
+  list-style: lower-latin;
+  list-style: upper-latin;
+  list-style: square;
+  list-style: upper-roman;
+  list-style: lower-roman; */
+}
+
+hr {
+  margin-top: 5rem;
+  margin-bottom: 3rem;
+}
+
+table {
+  width: 100%;
+  text-align: left;
+  margin-bottom: 2.5em;
+  border-collapse: collapse;
+}
+
+thead {
+  height: 4em;
+  border-bottom: 2px solid black;
+  vertical-align: bottom;
+}
+
+tbody {
+  vertical-align: bottom;
+}
+
+tr {
+  border-bottom: 1px solid #0000001c;
+}
+
+tbody > tr:last-child {
+  border: none;
+}
+
+td {
+  color: black;
+}
+
+.smallcaps {
+  font-family: 'IM Fell DW Pica SC', serif;
+}
+
+.title {
+    font-size: 4rem;
+    text-align: center;
+}
+
+.table-caption {
+  font-weight: lighter;
+  font-size: 0.95em;
+  margin-bottom: 0;
+  margin-top: 2.5em;
+  font-style: italic;
+}
+
+p + h2 {
+  margin-top: 2rem
+}
+
+h2 + h3,
+h3 + h4 {
+  margin-top: 0.75rem
+}
+
+li > p {
+  margin-bottom: 0px;
+}
+
+p + ul {
+  margin-top: -0.3rem
+}
+
+p.table-caption + table > thead {
+  height: 1rem;
+}

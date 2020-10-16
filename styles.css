@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica+SC&family=IM+Fell+DW+Pica:ital@0;1&family=Pirata+One&display=swap');
+
+html {
+  font-size: 16px;
+}
+
+
+
+body {
+  width: 30rem;
+  margin: 5rem auto;
+  font-family: 'IM Fell DW Pica', serif;
+}
+
+.smallcaps {
+  font-family: 'IM Fell DW Pica SC', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Pirata One', cursive;
+}
