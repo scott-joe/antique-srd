@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  width: 40rem;
+  width: 36rem;
   margin: 5rem auto;
   font-family: 'IM Fell DW Pica', serif;
 }
@@ -58,6 +58,7 @@ table {
   text-align: left;
   margin-bottom: 2.5em;
   border-collapse: collapse;
+  font-size: small
 }
 
 thead {
@@ -82,7 +83,7 @@ td {
   color: black;
 }
 
-.smallcaps {
+.sm-caps {
   font-family: 'IM Fell DW Pica SC', serif;
 }
 
@@ -116,6 +117,51 @@ p + ul {
   margin-top: -0.3rem
 }
 
-p.table-caption + table > thead {
+.table-caption + table > thead {
   height: 1rem;
+}
+
+.class-progression table {
+  position: relative;
+  width: 54rem;
+  margin-left: -8rem;
+}
+
+/* BARBARIAN */
+.class-progression.barbarian table th:nth-child(1) {
+  width: 6%;
+}
+
+.class-progression.barbarian table th:nth-child(2),
+.class-progression.barbarian table th:nth-child(4) {
+  width: 9%;
+}
+
+.class-progression.barbarian table th:nth-child(5) {
+  width: 10%;
+}
+
+/* BARD */
+.class-progression.bard table th:nth-child(1) {
+  width: 1%;
+}
+
+.class-progression.bard table th:nth-child(2),
+.class-progression.bard table th:nth-child(4),
+.class-progression.bard table th:nth-child(5) {
+  width: 1%;
+  background-color: red;
+}
+
+.class-progression.bard table th:nth-child(6),
+.class-progression.bard table th:nth-child(7),
+.class-progression.bard table th:nth-child(8),
+.class-progression.bard table th:nth-child(9),
+.class-progression.bard table th:nth-child(10),
+.class-progression.bard table th:nth-child(11),
+.class-progression.bard table th:nth-child(12),
+.class-progression.bard table th:nth-child(13),
+.class-progression.bard table th:nth-child(14) {
+  width: 2%;
+  background-color: green;
 }
