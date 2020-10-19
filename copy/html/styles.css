@@ -1,13 +1,23 @@
-@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica+SC&family=IM+Fell+DW+Pica:ital@0;1&family=Pirata+One&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica+SC&family=IM+Fell+DW+Pica:ital@0;1&family=Pirata+One&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica&family=IM+Fell+DW+Pica+SC&family=IM+Fell+Double+Pica&family=IM+Fell+English&family=IM+Fell+English+SC&family=IM+Fell+Great+Primer+SC&display=swap');
+/* 
+'IM Fell English SC'
+'IM Fell DW Pica'
+'IM Fell DW Pica SC'
+
+  'IM Fell Double Pica'
+  'IM Fell English'
+  'IM Fell Great Primer SC'
+*/
 
 html {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 body {
   width: 36rem;
   margin: 5rem auto;
-  font-family: 'IM Fell DW Pica', serif;
+  font-family: 'IM Fell English', serif;
 }
 
 h1,
@@ -16,9 +26,28 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Pirata One', cursive;
   margin-top: 1.5rem;
-  margin-bottom: 0;
+  margin-bottom: -0.2rem;
+}
+
+h1,
+h2 {
+  font-family: 'IM Fell English', cursive;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'IM Fell DW Pica SC', cursive;
+}
+
+header h1.title {
+  font-family: 'Pirata One', cursive;
+  font-size: 4rem;
+  text-align: center;
+  margin-top: 5rem;
+  margin-bottom: 10rem;
 }
 
 h2 {
@@ -26,9 +55,9 @@ h2 {
 }
 
 p {
-    line-height: 1.2em;
-    margin-top: 0.2em;
-    margin-bottom: 0.5em;
+  line-height: 1.2em;
+  margin-top: 0.4rem;
+  margin-bottom: 0.5em;
 }
 
 ul {
@@ -37,15 +66,15 @@ ul {
 }
 
 li {
-  /* list-style: circle;
-  list-style: decimal;
+  /* list-style: circle; */
+  /* list-style: decimal; */
   list-style: disc;
-  list-style: decimal-leading-zero;
-  list-style: lower-latin;
-  list-style: upper-latin;
-  list-style: square;
-  list-style: upper-roman;
-  list-style: lower-roman; */
+  /* list-style: decimal-leading-zero; */
+  /* list-style: lower-latin; */
+  /* list-style: upper-latin; */
+  /* list-style: square; */
+  /* list-style: upper-roman; */
+  /* list-style: lower-roman; */
 }
 
 hr {
@@ -58,7 +87,7 @@ table {
   text-align: left;
   margin-bottom: 2.5em;
   border-collapse: collapse;
-  font-size: small
+  font-size: small;
 }
 
 thead {
@@ -87,11 +116,6 @@ td {
   font-family: 'IM Fell DW Pica SC', serif;
 }
 
-.title {
-    font-size: 4rem;
-    text-align: center;
-}
-
 .table-caption {
   font-weight: lighter;
   font-size: 0.95em;
@@ -101,12 +125,12 @@ td {
 }
 
 p + h2 {
-  margin-top: 2rem
+  margin-top: 2rem;
 }
 
 h2 + h3,
 h3 + h4 {
-  margin-top: 0.75rem
+  margin-top: 0.75rem;
 }
 
 li > p {
@@ -114,7 +138,7 @@ li > p {
 }
 
 p + ul {
-  margin-top: -0.3rem
+  margin-top: -0.3rem;
 }
 
 .table-caption + table > thead {
