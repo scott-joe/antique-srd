@@ -1,23 +1,15 @@
-/* @import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica+SC&family=IM+Fell+DW+Pica:ital@0;1&family=Pirata+One&display=swap'); */
-@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica&family=IM+Fell+DW+Pica+SC&family=IM+Fell+Double+Pica&family=IM+Fell+English&family=IM+Fell+English+SC&family=IM+Fell+Great+Primer+SC&display=swap');
-/* 
-'IM Fell English SC'
-'IM Fell DW Pica'
-'IM Fell DW Pica SC'
-
-  'IM Fell Double Pica'
-  'IM Fell English'
-  'IM Fell Great Primer SC'
-*/
+@import url("https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=IM+Fell+English:ital@0;1&family=Pirata+One&display=swap");
 
 html {
   font-size: 18px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 body {
   width: 36rem;
   margin: 5rem auto;
-  font-family: 'IM Fell English', serif;
+  font-family: "IM Fell English", serif;
 }
 
 h1,
@@ -32,36 +24,62 @@ h6 {
 
 h1,
 h2 {
-  font-family: 'IM Fell English', cursive;
+  font-family: "IM Fell English", serif;
 }
 
 h3,
 h4,
 h5,
 h6 {
-  font-family: 'IM Fell DW Pica SC', cursive;
+  font-family: "IM Fell English SC", serif;
 }
 
 header h1.title {
-  font-family: 'Pirata One', cursive;
+  font-family: "Pirata One", cursive;
   font-size: 4rem;
   text-align: center;
-  margin-top: 5rem;
-  margin-bottom: 10rem;
+  margin-top: 16rem;
+  margin-bottom: 6rem;
+}
+
+@media print {
+  h2 {
+    page-break-before: always;
+  }
 }
 
 h2 {
   font-size: 2rem;
 }
 
+h3 {
+  font-size: 1.2rem;
+}
+
+.inset {
+  margin-left: 2rem;
+  width: 90%;
+}
+
+.inset p {
+ font-size: 0.9rem 
+}
+
+sup {
+  line-height: 0;
+  font-size: 0.63em;
+  vertical-align: super;
+}
+
 p {
-  line-height: 1.2em;
-  margin-top: 0.4rem;
+  line-height: 1.3em;
+  margin-top: 0.2rem;
   margin-bottom: 0.5em;
+  hyphens: none
 }
 
 ul {
-  margin-top: 0.5em;
+  margin-top: 0.2rem;
   margin-bottom: 1.5em;
 }
 
@@ -113,7 +131,7 @@ td {
 }
 
 .sm-caps {
-  font-family: 'IM Fell DW Pica SC', serif;
+  font-family: "IM Fell English SC", serif;
 }
 
 .table-caption {
@@ -141,16 +159,18 @@ p + ul {
   margin-top: -0.3rem;
 }
 
+/* TABLES */
 .table-caption + table > thead {
   height: 1rem;
 }
 
 .class-progression table {
   position: relative;
-  width: 54rem;
-  margin-left: -8rem;
+  width: 50rem;
+  margin-left: -7rem;
 }
 
+/* TABLES COLS */
 /* BARBARIAN */
 .class-progression.barbarian table th:nth-child(1) {
   width: 6%;
@@ -166,6 +186,7 @@ p + ul {
 }
 
 /* BARD */
+/*
 .class-progression.bard table th:nth-child(1) {
   width: 1%;
 }
@@ -173,7 +194,7 @@ p + ul {
 .class-progression.bard table th:nth-child(2),
 .class-progression.bard table th:nth-child(4),
 .class-progression.bard table th:nth-child(5) {
-  width: 1%;
+  width: 100px;
   background-color: red;
 }
 
@@ -187,5 +208,33 @@ p + ul {
 .class-progression.bard table th:nth-child(13),
 .class-progression.bard table th:nth-child(14) {
   width: 2%;
-  background-color: green;
+  text-align: center;
+}
+*/
+
+.class-progression.bard table tr td:nth-child(6),
+.class-progression.bard table tr td:nth-child(7),
+.class-progression.bard table tr td:nth-child(8),
+.class-progression.bard table tr td:nth-child(9),
+.class-progression.bard table tr td:nth-child(10),
+.class-progression.bard table tr td:nth-child(11),
+.class-progression.bard table tr td:nth-child(12),
+.class-progression.bard table tr td:nth-child(13),
+.class-progression.bard table tr td:nth-child(14) {
+  text-align: center;
+}
+
+.class-progression.bard table tr td:nth-child(6),
+.class-progression.bard table tr td:nth-child(7),
+.class-progression.bard table tr td:nth-child(8),
+.class-progression.bard table tr td:nth-child(9),
+.class-progression.bard table tr td:nth-child(10),
+.class-progression.bard table tr td:nth-child(11),
+.class-progression.bard table tr td:nth-child(12),
+.class-progression.bard table tr td:nth-child(13) {
+  border-right: 1px solid #0000001c;
+}
+
+
+blockquote {
 }

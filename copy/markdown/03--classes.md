@@ -6,23 +6,17 @@ title: Classes
 
 ### Hit Points
 
-**Hit Dice:** [1d12]{.sm-caps} per barbarian level
-
-**Hit Points at 1^st^ Level:** 12 + your Constitution modifier
-
-**Hit Points at Higher Levels:** [1d12]{.sm-caps} (or 7) + your Constitution modifier per barbarian level after 1^st^
+- **Hit Dice:** [1d12]{.sm-caps} per barbarian level
+- **Hit Points at 1^st^ Level:** 12 + your Constitution modifier
+- **Hit Points at Higher Levels:** [1d12]{.sm-caps} (or 7) + your Constitution modifier per barbarian level after 1^st^
 
 ### Proficiencies
 
-**Armor:** Light armor, medium armor, shields
-
-**Weapons:** Simple weapons, martial weapons
-
-**Tools:** None
-
-**Saving Throws:** Strength, Constitution
-
-**Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
+- **Armor:** Light armor, medium armor, shields
+- **Weapons:** Simple weapons, martial weapons
+- **Tools:** None
+- **Saving Throws:** Strength, Constitution
+- **Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
 
 ### Equipment
 
@@ -34,7 +28,16 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Level Based Stat Changes
 
+<!-- :::{.print-only}
+See Table 3.1
+::: -->
+
 ::: {.class-progression .barbarian}
+
+<!-- :::{.print-only .table-caption}
+Table 3.1 Barbarian Stats & Skills Progression
+::: -->
+
 | **Level** | **Proficiency Bonus** | **Features**                  | **Rages** | **Rage Damage** |
 | --------- | --------------------- | ----------------------------- | --------- | --------------- |
 | 1^st^     | +2                    | Rage, Unarmored Defense       | 2         | +2              |
@@ -85,6 +88,12 @@ At 2^nd^ level, you gain an uncanny sense of when things nearby aren't as they s
 
 At 3^rd^ level, you choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Totem Warrior, both detailed at the end of the class description. Your choice grants you features at 3^rd^ level and again at 6^th^, 10^th^, and 14^th^ levels.
 
+:::{.inset}
+#### Path of the Berserker
+
+For some barbarians, rage is a means to an end- that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.
+:::
+
 ### Ability Score Improvement
 
 When you reach 4^th^ level, and again at 8^th^, 12^th^, 16^th^, and 19^th^ level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -121,25 +130,19 @@ Beginning at 18^th^ level, if your total for a Strength check is less than your 
 
 At 20^th^ level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
 
-### Barbarian Paths
-
-#### Path of the Berserker
-
-For some barbarians, rage is a means to an end- that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.
-
-#### Frenzy
+### Frenzy
 
 Starting when you choose this path at 3^rd^ level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in appendix A).
 
-#### Mindless Rage
+### Mindless Rage
 
 Beginning at 6^th^ level, you can't be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
 
-#### Intimidating Presence
+### Intimidating Presence
 
 Beginning at 10^th^ level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you. If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours.
 
-#### Retaliation
+### Retaliation
 
 Starting at 14^th^ level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
 
@@ -225,9 +228,8 @@ Additionally, when you gain a level in this class, you can choose one of the bar
 
 Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
-
-**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+- **Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+- **Spell attack modifier** = your proficiency bonus + your Charisma modifier
 
 #### Ritual Casting
 
@@ -257,6 +259,14 @@ Beginning at 2^nd^ level, you can use soothing music or oration to help revitali
 
 At 3^rd^ level, you delve into the advanced techniques of a bard college of your choice: the College of Lore or the College of Valor, both detailed at the end of the class description. Your choice grants you features at 3^rd^ level and again at 6^th^ and 14^th^ level.
 
+:::{.inset}
+#### College of Lore
+
+Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
+
+The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic. The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
+:::
+
 ### Expertise
 
 At 3^rd^ level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. At 10^th^ level, you can choose another two skill proficiencies to gain this benefit.
@@ -280,14 +290,6 @@ By 10^th^ level, you have plundered magical knowledge from a wide spectrum of di
 ### Superior Inspiration
 
 At 20^th^ level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
-
-### Bard Colleges
-
-#### College of Lore
-
-Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
-
-The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic. The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
 
 ### Bonus Proficiencies
 
@@ -384,9 +386,8 @@ For example, if you are a 3^rd^-level cleric, you have four 1^st^-level and two 
 
 Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
-
-**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+- **Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+- **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 
 #### Ritual Casting
 
@@ -400,9 +401,31 @@ You can use a holy symbol (see chapter 5, "Equipment") as a spellcasting focus f
 
 Choose one domain related to your deity: Knowledge, Life, Light, Nature, Tempest, Trickery, or War. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features when you choose it at 1^st^ level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2^nd^ level, and additional benefits at 6^th^, 8^th^, and 17^th^ levels.
 
-#### Domain Spells
+### Domain Spells
 
 Each domain has a list of spells-its domain spells- that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
+
+:::{.inset}
+#### Life Domain
+
+The Life domain focuses on the vibrant positive energy-one of the fundamental forces of the universe-that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
+
+:::{.table-caption}
+**Table** **6 - Cleric: Life Domain Spells**
+:::
+
+| **Cleric Level** | **Spells**                           |
+| ---------------- | ------------------------------------ |
+| 1^st^              | bless, cure wounds                   |
+| 3^rd^              | lesser restoration, spiritual weapon |
+| 5^th^              | beacon of hope, revivify             |
+| 7^th^              | death ward, guardian of faith        |
+| 9^th^              | mass cure wounds, raise dead         |
+
+#### Bonus Proficiency
+
+When you choose this domain at 1^st^ level, you gain proficiency with heavy armor.
+:::
 
 ### Channel Divinity
 
@@ -440,28 +463,6 @@ Beginning at 10^th^ level, you can call on your deity to intervene on your behal
 
 If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest. At 20^th^ level, your call for intervention succeeds automatically, no roll required.
 
-### Cleric Domains
-
-#### Life Domain
-
-The Life domain focuses on the vibrant positive energy-one of the fundamental forces of the universe-that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
-
-:::{.table-caption}
-**Table** **6 - Cleric: Life Domain Spells**
-:::
-
-| **Cleric Level** | **Spells**                           |
-| ---------------- | ------------------------------------ |
-| 1^st^              | bless, cure wounds                   |
-| 3^rd^              | lesser restoration, spiritual weapon |
-| 5^th^              | beacon of hope, revivify             |
-| 7^th^              | death ward, guardian of faith        |
-| 9^th^              | mass cure wounds, raise dead         |
-
-### Bonus Proficiency
-
-When you choose this domain at 1^st^ level, you gain proficiency with heavy armor.
-
 ### Disciple of Life
 
 Also starting at 1^st^ level, your healing spells are more effective. Whenever you use a spell of 1^st^ level or higher to restore hit points to a creature, the creature regains additional hit points equal to 2 + the spell's level.
@@ -488,23 +489,17 @@ Starting at 17^th^ level, when you would normally roll one or more dice to resto
 
 ### Hit Points
 
-**Hit Dice:** [1d8]{.sm-caps} per druid level
-
-**Hit Points at 1^st^ Level:** 8 + your Constitution modifier
-
-**Hit Points at Higher Levels:** [1d8]{.sm-caps} (or 5) + your Constitution modifier per druid level after 1^st^
+- **Hit Dice:** [1d8]{.sm-caps} per druid level
+- **Hit Points at 1^st^ Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** [1d8]{.sm-caps} (or 5) + your Constitution modifier per druid level after 1^st^
 
 ### Proficiencies
 
-**Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
-
-**Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
-
-**Tools:** Herbalism kit
-
-**Saving Throws:** Intelligence, Wisdom
-
-**Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
+- **Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
+- **Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
+- **Tools:** Herbalism kit
+- **Saving Throws:** Intelligence, Wisdom
+- **Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
 
 ### Equipment
 
@@ -607,10 +602,6 @@ You can stay in a beast shape for a number of hours equal to half your druid lev
 - You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darkvision, unless your new form also has that sense.
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
-### Druid Circle
-
-At 2^nd^ level, you choose to identify with a circle of druids: the Circle of the Land or the Circle of the Moon, both detailed at the end of the class description. Your choice grants you features at 2^nd^ level and again at 6^th^, 10^th^, and 14^th^ level.
-
 ### Ability Score Improvement
 
 When you reach 4^th^ level, and again at 8^th^, 12^th^, 16^th^, and 19^th^ level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -627,8 +618,11 @@ Beginning at 18^th^ level, you can cast many of your druid spells in any shape y
 
 At 20^th^ level, you can use your Wild Shape an unlimited number of times. Additionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape.
 
-### Druid Circles
+### Druid Circle
 
+At 2^nd^ level, you choose to identify with a circle of druids: the Circle of the Land or the Circle of the Moon, both detailed at the end of the class description. Your choice grants you features at 2^nd^ level and again at 6^th^, 10^th^, and 14^th^ level.
+
+:::{.inset}
 #### Circle of the Land
 
 The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle's mysterious rites.
@@ -636,10 +630,6 @@ The Circle of the Land is made up of mystics and sages who safeguard ancient kno
 ### Bonus Cantrip
 
 When you choose this circle at 2^nd^ level, you learn one additional druid cantrip of your choice.
-
-### Natural Recovery
-
-Starting at 2^nd^ level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6^th^ level or higher. You can't use this feature again until you finish a long rest. For example, when you are a 4^th^-level druid, you can recover up to two levels worth of spell slots. You can recover either a 2^nd^-level slot or two 1^st^-level slots.
 
 ### Circle Spells
 
@@ -721,6 +711,11 @@ Your mystical connection to the land infuses you with the ability to cast certai
 | 5^th^             | water walk, stinking cloud           |
 | 7^th^             | freedom of movement, locate creature |
 | 9^th^             | insect plague, scrying               |
+:::
+
+### Natural Recovery
+
+Starting at 2^nd^ level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6^th^ level or higher. You can't use this feature again until you finish a long rest. For example, when you are a 4^th^-level druid, you can recover up to two levels worth of spell slots. You can recover either a 2^nd^-level slot or two 1^st^-level slots.
 
 #### Land's Stride
 
