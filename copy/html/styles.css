@@ -42,14 +42,16 @@ header h1.title {
   margin-bottom: 6rem;
 }
 
-@media print {
+/* @media print {
   h2 {
     page-break-before: always;
   }
-}
+} */
 
 h2 {
   font-size: 2rem;
+  margin-top: 8rem;
+  margin-bottom: 1rem;
 }
 
 h3 {
@@ -58,7 +60,7 @@ h3 {
 
 .inset {
   margin-left: 2rem;
-  width: 90%;
+  width: 85%;
 }
 
 .inset p {
@@ -142,10 +144,6 @@ td {
   font-style: italic;
 }
 
-p + h2 {
-  margin-top: 2rem;
-}
-
 h2 + h3,
 h3 + h4 {
   margin-top: 0.75rem;
@@ -166,38 +164,44 @@ p + ul {
 
 .class-progression table {
   position: relative;
-  width: 50rem;
-  margin-left: -7rem;
+  width: 36rem;
+  margin-left: 0;
 }
 
 /* TABLES COLS */
 /* BARBARIAN */
 .class-progression.barbarian table th:nth-child(1) {
-  width: 6%;
+  width: 2.5rem;
 }
 
 .class-progression.barbarian table th:nth-child(2),
-.class-progression.barbarian table th:nth-child(4) {
-  width: 9%;
-}
-
+.class-progression.barbarian table th:nth-child(4),
 .class-progression.barbarian table th:nth-child(5) {
-  width: 10%;
+  width: 4rem;
 }
 
 /* BARD */
-/*
 .class-progression.bard table th:nth-child(1) {
-  width: 1%;
+  width: 2rem;
 }
 
-.class-progression.bard table th:nth-child(2),
-.class-progression.bard table th:nth-child(4),
+.class-progression.bard table th:nth-child(2) {
+  width: 2rem;  
+}
+
+/* .class-progression.bard table th:nth-child(4){
+  width: 20rem;
+} */
+
+.class-progression.bard table th:nth-child(4){
+  width: 2rem;
+}
+
 .class-progression.bard table th:nth-child(5) {
-  width: 100px;
-  background-color: red;
+  width: 3rem;
 }
 
+/*
 .class-progression.bard table th:nth-child(6),
 .class-progression.bard table th:nth-child(7),
 .class-progression.bard table th:nth-child(8),
@@ -212,6 +216,15 @@ p + ul {
 }
 */
 
+.class-progression.bard table tr th:nth-child(6),
+.class-progression.bard table tr th:nth-child(7),
+.class-progression.bard table tr th:nth-child(8),
+.class-progression.bard table tr th:nth-child(9),
+.class-progression.bard table tr th:nth-child(10),
+.class-progression.bard table tr th:nth-child(11),
+.class-progression.bard table tr th:nth-child(12),
+.class-progression.bard table tr th:nth-child(13),
+.class-progression.bard table tr th:nth-child(14),
 .class-progression.bard table tr td:nth-child(6),
 .class-progression.bard table tr td:nth-child(7),
 .class-progression.bard table tr td:nth-child(8),
