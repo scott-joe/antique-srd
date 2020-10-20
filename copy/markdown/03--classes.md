@@ -2,7 +2,11 @@
 title: Classes
 ...
 
+:::{.class}
 ## Barbarian
+:::
+
+### Class Features
 
 ### Hit Points
 
@@ -146,29 +150,23 @@ Beginning at 10^th^ level, you can use your action to frighten someone with your
 
 Starting at 14^th^ level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
 
----
-
+:::{.class}
 ## Bard
+:::
 
 ### Hit Points
 
-**Hit Dice:** [1d8]{.sm-caps} per bard level
-
-**Hit Points at 1^st^ Level:** 8 + your Constitution modifier
-
-**Hit Points at Higher Levels:** [1d8]{.sm-caps} (or 5) + your Constitution modifier per bard level after 1^st^
+- **Hit Dice:** [1d8]{.sm-caps} per bard level
+- **Hit Points at 1^st^ Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** [1d8]{.sm-caps} (or 5) + your Constitution modifier per bard level after 1^st^
 
 ### Proficiencies
 
-**Armor:** Light armor
-
-**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
-
-**Tools:** Three musical instruments of your choice
-
-**Saving Throws:** Dexterity, Charisma
-
-**Skills:** Choose any three
+- **Armor:** Light armor
+- **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+- **Tools:** Three musical instruments of your choice
+- **Saving Throws:** Dexterity, Charisma
+- **Skills:** Choose any three
 
 ### Equipment
 
@@ -259,14 +257,6 @@ Beginning at 2^nd^ level, you can use soothing music or oration to help revitali
 
 At 3^rd^ level, you delve into the advanced techniques of a bard college of your choice: the College of Lore or the College of Valor, both detailed at the end of the class description. Your choice grants you features at 3^rd^ level and again at 6^th^ and 14^th^ level.
 
-:::{.inset}
-#### College of Lore
-
-Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
-
-The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic. The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
-:::
-
 ### Expertise
 
 At 3^rd^ level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies. At 10^th^ level, you can choose another two skill proficiencies to gain this benefit.
@@ -291,45 +281,49 @@ By 10^th^ level, you have plundered magical knowledge from a wide spectrum of di
 
 At 20^th^ level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
 
-### Bonus Proficiencies
+
+
+### Bard Colleges
+
+#### College of Lore
+
+Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
+
+The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic. The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
+
+##### Bonus Proficiencies
 
 When you join the College of Lore at 3^rd^ level, you gain proficiency with three skills of your choice.
 
-### Cutting Words
+##### Cutting Words
 
 Also at 3^rd^ level, you learn how to use your wit to distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of you makes an attack roll, an ability check, or a damage roll, you can use your reaction to expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and subtracting the number rolled from the creature's roll. You can choose to use this feature after the creature makes its roll, but before the GM determines whether the attack roll or ability check succeeds or fails, or before the creature deals its damage. The creature is immune if it can't hear you or if it's immune to being charmed.
 
-### Additional Magical Secrets
+##### Additional Magical Secrets
 
 At 6^th^ level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don't count against the number of bard spells you know.
 
-### Peerless Skill
+##### Peerless Skill
 
 Starting at 14^th^ level, when you make an ability check, you can expend one use of Bardic Inspiration. Roll a Bardic Inspiration die and add the number rolled to your ability check. You can choose to do so after you roll the die for the ability check, but before the GM tells you whether you succeed or fail.
 
----
-
+:::{.class}
 ## Cleric
+:::
 
 ### Hit Points
 
-**Hit Dice:** [1d8]{.sm-caps} per cleric level
-
-**Hit Points at 1^st^ Level:** 8 + your Constitution modifier
-
-**Hit Points at Higher Levels:** [1d8]{.sm-caps} (or 5) + your Constitution modifier per cleric level after 1^st^
+- **Hit Dice:** [1d8]{.sm-caps} per cleric level
+- **Hit Points at 1^st^ Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** [1d8]{.sm-caps} (or 5) + your Constitution modifier per cleric level after 1^st^
 
 ### Proficiencies
 
-**Armor:** Light armor, medium armor, shields
-
-**Weapons:** Simple weapons
-
-**Tools:** None
-
-**Saving Throws:** Wisdom, Charisma
-
-**Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
+- **Armor:** Light armor, medium armor, shields
+- **Weapons:** Simple weapons
+- **Tools:** None
+- **Saving Throws:** Wisdom, Charisma
+- **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
 
 ### Equipment
 
@@ -483,9 +477,9 @@ At 8^th^ level, you gain the ability to infuse your weapon strikes with divine e
 
 Starting at 17^th^ level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring [2d6]{.sm-caps} hit points to a creature, you restore 12.
 
----
-
+:::{.class}
 ## Druid
+:::
 
 ### Hit Points
 
@@ -558,9 +552,8 @@ For example, if you are a 3^rd^-level druid, you have four 1^st^-level and two 2
 
 Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
-
-**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+- **Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+- **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 
 #### Ritual Casting
 
@@ -570,8 +563,8 @@ You can cast a druid spell as a ritual if that spell has the ritual tag and you 
 
 You can use a druidic focus (see chapter 5, "Equipment") as a spellcasting focus for your druid spells.
 
-**Sacred Plants and Wood**
-
+> **Sacred Plants and Wood**
+> 
 > A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.
 >
 > Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.
@@ -580,9 +573,7 @@ You can use a druidic focus (see chapter 5, "Equipment") as a spellcasting focus
 
 ### Wild Shape
 
-Starting at 2^nd^ level, you can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.
-
-Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2^nd^ level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.
+Starting at 2^nd^ level, you can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest. Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2^nd^ level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.
 
 :::{.table-caption}
 **Table** **8 - Druid: Beast Shapes**
@@ -733,29 +724,23 @@ When you reach 14^th^ level, creatures of the natural world sense your connectio
 
 > Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse (the lists of gods in appendix B include many such deities). The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.
 
----
-
+:::{.class}
 ## Fighter
+:::
 
 ### Hit Points
 
-**Hit Dice:** [1d10]{.sm-caps} per fighter level
-
-**Hit Points at 1^st^ Level:** 10 + your Constitution modifier
-
-**Hit Points at Higher Levels:** [1d10]{.sm-caps} (or 6) + your Constitution modifier per fighter level after 1^st^
+- **Hit Dice:** [1d10]{.sm-caps} per fighter level
+- **Hit Points at 1^st^ Level:** 10 + your Constitution modifier
+- **Hit Points at Higher Levels:** [1d10]{.sm-caps} (or 6) + your Constitution modifier per fighter level after 1^st^
 
 ### Proficiencies
 
-**Armor:** All armor, shields
-
-**Weapons:** Simple weapons, martial weapons
-
-**Tools:** None
-
-**Saving Throws:** Strength, Constitution
-
-**Skills:** Choose two skills from Acrobatics, Animal, Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
+- **Armor:** All armor, shields
+- **Weapons:** Simple weapons, martial weapons
+- **Tools:** None
+- **Saving Throws:** Strength, Constitution
+- **Skills:** Choose two skills from Acrobatics, Animal, Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 
 ### Equipment
 
@@ -873,29 +858,23 @@ Starting at 15^th^ level, your weapon attacks score a critical hit on a roll of 
 
 At 18^th^ level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
 
----
-
+:::{.class}
 ## Monk
+:::
 
 ### Hit Points
 
-**Hit Dice:** [1d8]{.sm-caps} per monk level
-
-**Hit Points at 1^st^ Level:** 8 + your Constitution modifier
-
-**Hit Points at Higher Levels:** [1d8]{.sm-caps} (or 5) + your Constitution modifier per monk level after 1^st^
+- **Hit Dice:** [1d8]{.sm-caps} per monk level
+- **Hit Points at 1^st^ Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** [1d8]{.sm-caps} (or 5) + your Constitution modifier per monk level after 1^st^
 
 ### Proficiencies
 
-**Armor:** None
-
-**Weapons:** Simple weapons, shortswords
-
-**Tools:** Choose one type of artisan's tools or one musical instrument
-
-**Saving Throws:** Strength, Dexterity
-
-**Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
+- **Armor:** None
+- **Weapons:** Simple weapons, shortswords
+- **Tools:** Choose one type of artisan's tools or one musical instrument
+- **Saving Throws:** Strength, Dexterity
+- **Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
 
 ### Equipment
 
@@ -948,15 +927,11 @@ Certain monasteries use specialized forms of the monk weapons. For example, you 
 
 ### Ki
 
-Starting at 2^nd^ level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table.
+Starting at 2^nd^ level, your training allows you to harness the mystic energy of ki. Your access to this energy is represented by a number of ki points. Your monk level determines the number of points you have, as shown in the Ki Points column of the Monk table. You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more ki features as you gain levels in this class.
 
-You can spend these points to fuel various ki features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind. You learn more ki features as you gain levels in this class.
+When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points. Some of your ki features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:
 
-When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of which you draw all of your expended ki back into yourself. You must spend at least 30 minutes of the rest meditating to regain your ki points.
-
-Some of your ki features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:
-
-**Ki save DC** = 8 + your proficiency bonus + your Wisdom modifier
+- **Ki save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
 #### Flurry of Blows
 
@@ -972,9 +947,7 @@ You can spend 1 ki point to take the Disengage or Dash action as a bonus action 
 
 ### Unarmored Movement
 
-Starting at 2^nd^ level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table.
-
-At 9^th^ level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
+Starting at 2^nd^ level, your speed increases by 10 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain monk levels, as shown in the Monk table. At 9^th^ level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
 
 ### Monastic Tradition
 
@@ -982,9 +955,7 @@ When you reach 3^rd^ level, you commit yourself to a monastic tradition: the Way
 
 ### Deflect Missiles
 
-Starting at 3^rd^ level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by [1d10]{.sm-caps} + your Dexterity modifier + your monk level.
-
-If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet.
+Starting at 3^rd^ level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack. When you do so, the damage you take from the attack is reduced by [1d10]{.sm-caps} + your Dexterity modifier + your monk level. If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free. If you catch a missile in this way, you can spend 1 ki point to make a ranged attack with the weapon or piece of ammunition you just caught, as part of the same reaction. You make this attack with proficiency, regardless of your weapon proficiencies, and the missile counts as a monk weapon for the attack, which has a normal range of 20 feet and a long range of 60 feet.
 
 ### Ability Score Improvement
 
@@ -1066,29 +1037,23 @@ Beginning at 11^th^ level, you can enter a special meditation that surrounds you
 
 At 17^th^ level, you gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations are harmless unless you use your action to end them. To do so, you and the target must be on the same plane of existence. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes [10d10]{.sm-caps} necrotic damage. You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.
 
----
-
+:::{.class}
 ## Paladin
+:::
 
 ### Hit Points
 
-**Hit Dice:** [1d10]{.sm-caps} per paladin level
-
-**Hit Points at 1^st^ Level:** 10 + your Constitution modifier
-
-**Hit Points at Higher Levels:** [1d10]{.sm-caps} (or 6) + your Constitution modifier per paladin level after 1^st^
+- **Hit Dice:** [1d10]{.sm-caps} per paladin level
+- **Hit Points at 1^st^ Level:** 10 + your Constitution modifier
+- **Hit Points at Higher Levels:** [1d10]{.sm-caps} (or 6) + your Constitution modifier per paladin level after 1^st^
 
 ### Proficiencies
 
-**Armor:** All armor, shields
-
-**Weapons:** Simple weapons, martial weapons
-
-**Tools:** None
-
-**Saving Throws:** Wisdom, Charisma
-
-**Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
+- **Armor:** All armor, shields
+- **Weapons:** Simple weapons, martial weapons
+- **Tools:** None
+- **Saving Throws:** Wisdom, Charisma
+- **Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
 
 ### Equipment
 
@@ -1236,15 +1201,11 @@ The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, 
 
 Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
 
-**Honesty**. Don't lie or cheat. Let your word be your promise.
-
-**Courage**. Never fear to act, though caution is wise.
-
-**Compassion**. Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
-
-**Honor**. Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
-
-**Duty**. Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
+- **Honesty**. Don't lie or cheat. Let your word be your promise.
+- **Courage**. Never fear to act, though caution is wise.
+- **Compassion**. Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
+- **Honor**. Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
+- **Duty**. Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
 
 #### Oath Spells
 
@@ -1266,9 +1227,8 @@ You gain oath spells at the paladin levels listed.
 
 When you take this oath at 3^rd^ level, you gain the following two Channel Divinity options.
 
-**Sacred Weapon**. As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration. You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
-
-**Turn the Unholy**. As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
+- **Sacred Weapon**. As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity. For 1 minute, you add your Charisma modifier to attack rolls made with that weapon (with a minimum bonus of +1). The weapon also emits bright light in a 20-foot radius and dim light 20 feet beyond that. If the weapon is not already magical, it becomes magical for the duration. You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
+- **Turn the Unholy**. As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
 
@@ -1292,29 +1252,23 @@ At 20^th^ level, as an action, you can emanate an aura of sunlight. For 1 minute
 >
 > If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM's discretion, an impenitent paladin might be forced to abandon this class and adopt another.
 
----
-
+:::{.class}
 ## Ranger
+:::
 
 ### Hit Points
 
-**Hit Dice:** [1d10]{.sm-caps} per ranger level
-
-**Hit Points at 1^st^ Level:** 10 + your Constitution modifier
-
-**Hit Points at Higher Levels:** [1d10]{.sm-caps} (or 6) + your Constitution modifier per ranger level after 1^st^
+- **Hit Dice:** [1d10]{.sm-caps} per ranger level
+- **Hit Points at 1^st^ Level:** 10 + your Constitution modifier
+- **Hit Points at Higher Levels:** [1d10]{.sm-caps} (or 6) + your Constitution modifier per ranger level after 1^st^
 
 ### Proficiencies
 
-**Armor:** Light armor, medium armor, shields
-
-**Weapons:** Simple weapons, martial weapons
-
-**Tools:** None
-
-**Saving Throws:** Strength, Dexterity
-
-**Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
+- **Armor:** Light armor, medium armor, shields
+- **Weapons:** Simple weapons, martial weapons
+- **Tools:** None
+- **Saving Throws:** Strength, Dexterity
+- **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 
 ### Equipment
 
@@ -1407,9 +1361,8 @@ You know two 1^st^-level spells of your choice from the ranger spell list. The S
 
 Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
-
-**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+- **Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+- **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 
 ### Ranger Archetype
 
@@ -1459,63 +1412,50 @@ Emulating the Hunter archetype means accepting your place as a bulwark between c
 
 At 3^rd^ level, you gain one of the following features of your choice.
 
-**Colossus Slayer**. Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra [1d8]{.sm-caps} damage if it's below its hit point maximum. You can deal this extra damage only once per turn.
-
-**Giant Killer**. When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
-
-**Horde Breaker**. Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
+- **Colossus Slayer**. Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra [1d8]{.sm-caps} damage if it's below its hit point maximum. You can deal this extra damage only once per turn.
+- **Giant Killer**. When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
+- **Horde Breaker**. Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
 
 #### Defensive Tactics
 
 At 7^th^ level, you gain one of the following features of your choice.
 
-**Escape the Horde**. Opportunity attacks against you are made with disadvantage.
-
-**Multiattack Defense**. When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.
-
-**Steel Will**. You have advantage on saving throws against being frightened.
+- **Escape the Horde**. Opportunity attacks against you are made with disadvantage.
+- **Multiattack Defense**. When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.
+- **Steel Will**. You have advantage on saving throws against being frightened.
 
 #### Multi-Attack
 
 At 11^th^ level, you gain one of the following features of your choice.
 
-**Volley**. You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
-
-**Whirlwind Attack**. You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
+- **Volley**. You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
+- **Whirlwind Attack**. You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
 
 #### Superior Hunter's Defense
 
 At 15^th^ level, you gain one of the following features of your choice.
 
-**Evasion**. When you are subjected to an effect, such as a red dragon's fiery breath or a _lightning bolt_ spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+- **Evasion**. When you are subjected to an effect, such as a red dragon's fiery breath or a _lightning bolt_ spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+- **Stand Against the Tide**. When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
+- **Uncanny Dodge**. When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
 
-**Stand Against the Tide**. When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
-
-**Uncanny Dodge**. When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.
-
----
-
+:::{.class}
 ## Rogue
+:::
 
 ### Hit Points
 
-**Hit Dice:** [1d8]{.sm-caps} per rogue level
-
-**Hit Points at 1^st^ Level:** 8 + your Constitution modifier
-
-**Hit Points at Higher Levels:** [1d8]{.sm-caps} (or 5) + your Constitution modifier per rogue level after 1^st^
+- **Hit Dice:** [1d8]{.sm-caps} per rogue level
+- **Hit Points at 1^st^ Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** [1d8]{.sm-caps} (or 5) + your Constitution modifier per rogue level after 1^st^
 
 ### Proficiencies
 
-**Armor:** Light armor
-
-**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
-
-**Tools:** Thieves' tools
-
-**Saving Throws:** Dexterity, Intelligence
-
-**Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
+- **Armor:** Light armor
+- **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+- **Tools:** Thieves' tools
+- **Saving Throws:** Dexterity, Intelligence
+- **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
 
 ### Equipment
 
@@ -1563,9 +1503,7 @@ Beginning at 1^st^ level, you know how to strike subtly and exploit a foe's dist
 
 ### Thieves' Cant
 
-During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
-
-In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly. In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 
 ### Cunning Action
 
@@ -1605,9 +1543,7 @@ Beginning at 18^th^ level, you are so evasive that attackers rarely gain the upp
 
 ### Stroke of Luck
 
-At 20^th^ level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the [d20]{.sm-caps} roll as a 20.
-
-Once you use this feature, you can't use it again until you finish a short or long rest.
+At 20^th^ level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the [d20]{.sm-caps} roll as a 20. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ### Roguish Archetypes
 
@@ -1637,33 +1573,23 @@ By 13^th^ level, you have learned enough about the workings of magic that you ca
 
 When you reach 17^th^ level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are surprised.
 
----
-
+:::{.class}
 ## Sorcerer
-
-## Class Features
-
-As a sorcerer, you gain the following class features.
+:::
 
 ### Hit Points
 
-**Hit Dice:** [1d6]{.sm-caps} per sorcerer level
-
-**Hit Points at 1^st^ Level:** 6 + your Constitution modifier
-
-**Hit Points at Higher Levels:** [1d6]{.sm-caps} (or 4) + your Constitution modifier per sorcerer level after 1^st^
+- **Hit Dice:** [1d6]{.sm-caps} per sorcerer level
+- **Hit Points at 1^st^ Level:** 6 + your Constitution modifier
+- **Hit Points at Higher Levels:** [1d6]{.sm-caps} (or 4) + your Constitution modifier per sorcerer level after 1^st^
 
 ### Proficiencies
 
-**Armor:** None
-
-**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
-
-**Tools:** None
-
-**Saving Throws:** Constitution, Charisma
-
-**Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
+- **Armor:** None
+- **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
+- **Tools:** None
+- **Saving Throws:** Constitution, Charisma
+- **Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
 
 ### Equipment
 
@@ -1721,9 +1647,8 @@ You know two 1^st^-level spells of your choice from the sorcerer spell list. The
 
 Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
-
-**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+- **Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+- **Spell attack modifier** = your proficiency bonus + your Charisma modifier
 
 #### Spellcasting Focus
 
@@ -1745,7 +1670,8 @@ You have 2 sorcery points, and you gain more as you reach higher levels, as show
 
 You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels. Any spell slot you create with this feature vanishes when you finish a long rest.
 
-**Creating Spell Slots**. You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5^th^.
+##### Creating Spell Slots
+You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5^th^.
 
 Any spell slot you create with this feature vanishes when you finish a long rest.
 
@@ -1761,12 +1687,14 @@ Any spell slot you create with this feature vanishes when you finish a long rest
 | 4^th^                  | 6                      |
 | 5^th^                  | 7                      |
 
-**Converting a Spell Slot to Sorcery Points**. As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
+##### Converting a Spell Slot to Sorcery Points
+As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
 
 ### Metamagic
 
 At 3^rd^ level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10^th^ and 17^th^ level. You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
 
+:::{.inset}
 #### Careful Spell
 
 When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
@@ -1798,6 +1726,7 @@ When you cast a spell, you can spend 1 sorcery point to cast it without any soma
 #### Twinned Spell
 
 When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip). To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, _magic missile_ and _scorching ray_ aren't eligible, but _ray of frost_ and _chromatic orb_ are.
+:::
 
 ### Ability Score Improvement
 
@@ -1854,29 +1783,23 @@ At 14^th^ level, you gain the ability to sprout a pair of dragon wings from your
 
 Beginning at 18^th^ level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
 
----
-
+:::{.class}
 ## Warlock
+:::
 
 ### Hit Points
 
-**Hit Dice:** [1d8]{.sm-caps} per warlock level
-
-**Hit Points at 1^st^ Level:** 8 + your Constitution modifier
-
-**Hit Points at Higher Levels:** [1d8]{.sm-caps} (or 5) + your Constitution modifier per warlock level after 1^st^
+- **Hit Dice:** [1d8]{.sm-caps} per warlock level
+- **Hit Points at 1^st^ Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** [1d8]{.sm-caps} (or 5) + your Constitution modifier per warlock level after 1^st^
 
 ### Proficiencies
 
-**Armor:** Light armor
-
-**Weapons:** Simple weapons
-
-**Tools:** None
-
-**Saving Throws:** Wisdom, Charisma
-
-**Skills:** Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
+- **Armor:** Light armor
+- **Weapons:** Simple weapons
+- **Tools:** None
+- **Saving Throws:** Wisdom, Charisma
+- **Skills:** Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
 
 ### Equipment
 
@@ -1940,9 +1863,8 @@ When you reach 6^th^ level, for example, you learn a new warlock spell, which ca
 
 Charisma is your spellcasting ability for your warlock spells, so you use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
-
-**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+- **Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+- **Spell attack modifier** = your proficiency bonus + your Charisma modifier
 
 #### Spellcasting Focus
 
@@ -1973,11 +1895,11 @@ Your patron gives you a grimoire called a Book of Shadows. When you gain this fe
 **Your Pact Boon**
 
 > Each Pact Boon option produces a special creature or an object that reflects your patron's nature.
->
+> 
 > **Pact of the Chain**. Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with sprites and pseudodragons tied to the Archfey and imps and quasits tied to the Fiend. Because the Great Old One's nature is inscrutable, any familiar form is suitable for it.
->
+> 
 > **Pact of the Blade**. If your patron is the Archfey, your weapon might be a slender blade wrapped in leafy vines. If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames. If your patron is the Great Old One, your weapon might be an ancient-looking spear, with a gemstone embedded in its head, carved to look like a terrible unblinking eye.
->
+> 
 > **Pact of the Tome**. Your Book of Shadows might be a fine, gilt-edged tome with spells of enchantment and illusion, gifted to you by the lordly Archfey. It could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend. Or it could be the tattered diary of a lunatic driven mad by contact with the Great Old One, holding scraps of spells that only your own burgeoning insanity allows you to understand and cast.
 
 ### Ability Score Improvement
@@ -2198,9 +2120,7 @@ Starting at 1^st^ level, when you reduce a hostile creature to 0 hit points, you
 
 #### Dark One's Own Luck
 
-Starting at 6^th^ level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a [d10]{.sm-caps} to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
-
-Once you use this feature, you can't use it again until you finish a short or long rest.
+Starting at 6^th^ level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a [d10]{.sm-caps} to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 #### Fiendish Resilience
 
@@ -2208,35 +2128,25 @@ Starting at 10^th^ level, you can choose one damage type when you finish a short
 
 #### Hurl Through Hell
 
-Starting at 14^th^ level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape.
+Starting at 14^th^ level, when you hit a creature with an attack, you can use this feature to instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape. At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes [10d10]{.sm-caps} psychic damage as it reels from its horrific experience. Once you use this feature, you can't use it again until you finish a long rest.
 
-At the end of your next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes [10d10]{.sm-caps} psychic damage as it reels from its horrific experience.
-
-Once you use this feature, you can't use it again until you finish a long rest.
-
----
-
+:::{.class}
 ## Wizard
+:::
 
 ### Hit Points
 
-**Hit Dice:** [1d6]{.sm-caps} per wizard level
-
-**Hit Points at 1^st^ Level:** 6 + your Constitution modifier
-
-**Hit Points at Higher Levels:** [1d6]{.sm-caps} (or 4) + your Constitution modifier per wizard level after 1^st^
+- **Hit Dice:** [1d6]{.sm-caps} per wizard level
+- **Hit Points at 1^st^ Level:** 6 + your Constitution modifier
+- **Hit Points at Higher Levels:** [1d6]{.sm-caps} (or 4) + your Constitution modifier per wizard level after 1^st^
 
 ### Proficiencies
 
-**Armor:** None
-
-**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
-
-**Tools:** None
-
-**Saving Throws:** Intelligence, Wisdom
-
-**Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
+- **Armor:** None
+- **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
+- **Tools:** None
+- **Saving Throws:** Intelligence, Wisdom
+- **Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 
 ### Equipment
 
@@ -2312,9 +2222,8 @@ For example, if you're a 3^rd^-level wizard, you have four 1^st^-level and two 2
 
 Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
-**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
-
-**Spell attack modifier** = your proficiency bonus + your Intelligence modifier
+- **Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
+- **Spell attack modifier** = your proficiency bonus + your Intelligence modifier
 
 #### Ritual Casting
 
